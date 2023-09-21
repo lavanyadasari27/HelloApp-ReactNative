@@ -1,5 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+This is a simple React Native app that displays a greeting message.
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
@@ -55,9 +57,40 @@ Now that you have successfully run the app, let's modify it.
 
    For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
-## Congratulations! :tada:
 
-You've successfully run and modified your React Native App. :partying_face:
+## To run this App
+
+To get this project up and running on your local machine, follow these steps:
+
+1. Clone the repository:
+
+```
+   git clone https://github.com/lavanyadasari27/HelloApp-ReactNative.git
+```
+
+2. Navigate to the project directory:
+
+```
+   cd hello-lavanya-app
+```  
+
+3. Install dependencies:
+
+```
+   npm install
+```   
+
+4. Start the app:
+
+```
+   npm run start
+``` 
+
+You can run the app on an emulator/ simulator by following the instructions provided in the console.
+
+## Usage
+
+Once the app is running, you will see a screen displaying the message "Hello, Lavanya!!!" in the center.
 
 ### Now what?
 
