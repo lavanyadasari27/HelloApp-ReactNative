@@ -92,6 +92,10 @@ You can run the app on an emulator/ simulator by following the instructions prov
 
 Once the app is running, you will see a screen displaying the message "Hello, Lavanya!!!" in the center.
 
+## Video
+
+https://github.com/lavanyadasari27/HelloApp-ReactNative/assets/127495745/aec76d59-d8dd-4425-923e-e585b6c418ec
+
 ### Now what?
 
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
@@ -110,3 +114,10 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+
+
+
+
+
